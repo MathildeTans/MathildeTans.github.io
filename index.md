@@ -3,7 +3,7 @@ title: BST 260 Final Project
 feature_text: |
   ## BST 260 Final Project
   The global effect of maternal education on childhood stunting
-feature_image: "https://wallpaperaccess.com/full/739858.jpg"
+feature_image: "https://img.freepik.com/free-photo/luxury-plain-green-gradient-abstract-studio-background-empty-room-with-space-your-text-picture_1258-63593.jpg?w=2000"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
