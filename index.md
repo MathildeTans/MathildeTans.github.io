@@ -1,13 +1,15 @@
 ---
 title: BST 260 Final Project
 feature_text: |
-  ## BST 260 Final Project
-  The global effect of maternal education on childhood stunting
+  ## The global effect of maternal education on childhood stunting
+  Mathilde Tans
 feature_image: "https://img.freepik.com/free-photo/luxury-plain-green-gradient-abstract-studio-background-empty-room-with-space-your-text-picture_1258-63593.jpg?w=2000"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Childhood stunting affects almost a quarter of all children under five worldwide. Aside from not reaching the (WHO) standard height for their age, stunted children are put at a disadvantage due to delayed cognitive and mental development. Recent studies tell us that maternal education can protect children from stunting. In this study, we quantify the global effect of maternal education on childhood stunting."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Childhood stunting affects almost a quarter of all children under five worldwide. Aside from not reaching the (WHO) standard height for their age, stunted children are put at a disadvantage due to delayed cognitive and mental development. Recent studies tell us that maternal education can protect children from stunting. In this study, we quantify the global effect of maternal education on childhood stunting.
+
+Test
 
 
 ## Features
